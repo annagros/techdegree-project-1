@@ -1,2 +1,2 @@
-# Tech Degree Number 1
+# techdegree-project-1
  Number Guessing Game
